@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;a-linklist-maybe-a-place-for-various-thoughts&#34;&gt;A linklist, maybe a place for various thoughts.&lt;/h2&gt;&#xA;&lt;p&gt;If I ever were to publish a manifesto, this is probably where I would do it.&#xA;In any event, here&amp;rsquo;s my public key, just in case.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;-----BEGIN PGP PUBLIC KEY BLOCK-----&#xA;&#xA;mDMEZ2R7yxYJKwYBBAHaRw8BAQdAC5wID5aA2TgmbiQFpU75iJh9tp/B79Vf7/lp&#xA;100Gh3a0J3RhaWNoaTEwODIgPHdhc21laW5lbXV0dGVyQDQyMGJsYXplLml0PoiZ&#xA;BBMWCgBBFiEEzKgOwxFe8Vo3a5XGUyyUZ+/4b7sFAmdke8sCGwMFCQWjmoAFCwkI&#xA;BwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQUyyUZ+/4b7vLOgEA99A0HOegfZMG&#xA;EypdsET9EBV0Htjwm43dkF50izAwdEgBAIsIeLQaS5cDonIPvOFphibiMiBTHPOu&#xA;My9bLyIZkEMOuDgEZ2R7yxIKKwYBBAGXVQEFAQEHQNVVPZ95qkiNmDQbkB16rGYp&#xA;Sk6QgcNgpxrWyE8wVhsKAwEIB4h+BBgWCgAmFiEEzKgOwxFe8Vo3a5XGUyyUZ+/4&#xA;b7sFAmdke8sCGwwFCQWjmoAACgkQUyyUZ+/4b7vsvgD+M7zkDlY0n066/qkb1B7p&#xA;dXTgYUDYv1AMrYA4t1OASI0BAJ1tkDmHA4uh1R1OMDKyzX2YHUjKZcmhfBy62dS4&#xA;07sA&#xA;=irOw&#xA;-----END PGP PUBLIC KEY BLOCK-----&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>

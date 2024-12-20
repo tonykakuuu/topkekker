@@ -1,0 +1,78 @@
+baseURL = 'https://memedealer.club' 
+languageCode = 'en-us'
+title = 'Home'
+theme = "nightfall"
+
+[params]
+user = "AAA"
+hostname = "memedealer.club"
+footerHtml = '2024'
+published = false
+readingTime = false
+showMetadata = false
+
+[menu]
+  [[menu.header]]
+    name = "about"
+    weight = 0
+    url = "/about"
+
+[params.author]
+    name = "Tonyカク"
+
+[[params.social]]
+key = 1
+name = "twitter [private]"
+url = "https://x.com/taichi1082"
+
+[[params.social]]
+key = 2
+name = "twitter [public]"
+url = "https://x.com/BeatRichardinio"
+
+[[params.social]]
+key = 2
+name = "last.fm"
+url = "https://www.last.fm/user/taichi1082"
+
+[[params.social]]
+key = 3
+name = "steam"
+url = "https://steamcommunity.com/id/1082"
+
+[[params.social]]
+key = 4
+name = "flickr"
+url = "https://www.flickr.com/photos/tonykaku/"
+
+[[params.social]]
+key = 5
+name = "github"
+url = "https://github.com/tonykakuuu"
+
+[[params.social]]
+key = 6
+name = "youtube [1]"
+url = "https://www.youtube.com/@ichi1082"
+
+[[params.social]]
+key = 7
+name = "youtube [2]"
+url = "https://www.youtube.com/c/TheohoSignal"
+
+[[params.social]]
+key = 8
+name = "youtube [3]"
+url = "https://www.youtube.com/@theohonoise9445"
+
+[[params.social]]
+key = 9
+name = "mastodon [backup]"
+url = "https://mastodon.social/@taichi1082"
+
+[[params.social]]
+key = 10
+name = "instagram [private]"
+url = "https://www.instagram.com/mechanical_adhesion/"
+
+
