@@ -1,11 +1,11 @@
-baseURL = 'https://memedealer.club' 
+baseURL = 'https://topkeker.rip' 
 languageCode = 'en-us'
 title = 'Home'
 theme = "nightfall"
 
 [params]
 user = "AAA"
-hostname = "memedealer.club"
+hostname = "topkekker.rip"
 footerHtml = '2024'
 published = false
 readingTime = false
