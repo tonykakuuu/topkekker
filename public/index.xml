@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;a-linklist-maybe-a-place-for-various-thoughts&#34;&gt;A linklist, maybe a place for various thoughts.&lt;/h2&gt;&#xA;&lt;p&gt;If I ever were to publish a manifesto, this is probably where I would do it.&#xA;In any event, here&amp;rsquo;s my public key, just in case.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;-----BEGIN PGP PUBLIC KEY BLOCK-----&#xA;&#xA;mDMEZ2R7yxYJKwYBBAHaRw8BAQdAC5wID5aA2TgmbiQFpU75iJh9tp/B79Vf7/lp&#xA;100Gh3a0J3RhaWNoaTEwODIgPHdhc21laW5lbXV0dGVyQDQyMGJsYXplLml0PoiZ&#xA;BBMWCgBBFiEEzKgOwxFe8Vo3a5XGUyyUZ+/4b7sFAmdke8sCGwMFCQWjmoAFCwkI&#xA;BwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQUyyUZ+/4b7vLOgEA99A0HOegfZMG&#xA;EypdsET9EBV0Htjwm43dkF50izAwdEgBAIsIeLQaS5cDonIPvOFphibiMiBTHPOu&#xA;My9bLyIZkEMOuDgEZ2R7yxIKKwYBBAGXVQEFAQEHQNVVPZ95qkiNmDQbkB16rGYp&#xA;Sk6QgcNgpxrWyE8wVhsKAwEIB4h+BBgWCgAmFiEEzKgOwxFe8Vo3a5XGUyyUZ+/4&#xA;b7sFAmdke8sCGwwFCQWjmoAACgkQUyyUZ+/4b7vsvgD+M7zkDlY0n066/qkb1B7p&#xA;dXTgYUDYv1AMrYA4t1OASI0BAJ1tkDmHA4uh1R1OMDKyzX2YHUjKZcmhfBy62dS4&#xA;07sA&#xA;=irOw&#xA;-----END PGP PUBLIC KEY BLOCK-----&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
+    <item>
+      <title>Files</title>
+      <link>http://localhost:1313/files/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/files/</guid>
+      <description>&lt;h2 id=&#34;mostly-useless-stuff&#34;&gt;Mostly useless stuff.&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/files/coolexec.cfg&#34;&gt;coolexec.cfg&lt;/a&gt; - CS2 Autoexec [2024.12]&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
